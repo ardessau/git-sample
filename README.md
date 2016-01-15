@@ -1,6 +1,6 @@
 # git-sample
 
-{google}(http://google.com)
+[google](http://google.com)
 
 * Bullet
 * Point
